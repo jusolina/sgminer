@@ -1,0 +1,1 @@
+--scrypt -o stratum + tcp: //scrypt.eobot.com: 4444 --userpass eobot.1203149: x
